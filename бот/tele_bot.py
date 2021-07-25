@@ -13,8 +13,8 @@ HELP_MSG = """
 Commands usage help:
 /start to start
 /sticker to get a sticker :-) It's so simple for now!
-/getwebhook <token of your telegram bot>
-/setwebhook <token of your telegram bot> <url to call on message>
+/getwebhook <1871142437:AAFAOul8ILmK3gs3nUvQMakw5-NCR7gUzWc>
+/setwebhook <1871142437:AAFAOul8ILmK3gs3nUvQMakw5-NCR7gUzWc> <url to call on message>
 """
 
 # Create `bot` instance to use some features from pyTelegramBotAPI package.
